@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.API", "Apponto.API\Apponto.API.csproj", "{19D7F61A-19E6-451C-B8FE-452DCAAE592F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.Web", "Apponto.Web\Apponto.Web.csproj", "{BB20B40F-3981-44E7-930F-C5A1A85FBCE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.Service", "Apponto.Service\Apponto.Service.csproj", "{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D7F61A-19E6-451C-B8FE-452DCAAE592F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D7F61A-19E6-451C-B8FE-452DCAAE592F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D7F61A-19E6-451C-B8FE-452DCAAE592F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D7F61A-19E6-451C-B8FE-452DCAAE592F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB20B40F-3981-44E7-930F-C5A1A85FBCE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB20B40F-3981-44E7-930F-C5A1A85FBCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB20B40F-3981-44E7-930F-C5A1A85FBCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB20B40F-3981-44E7-930F-C5A1A85FBCE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
