@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}</ProjectGuid>
+    <ProjectGuid>{0319FD96-D9F3-4A28-9933-B71EFD1D3838}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Apponto.Service</RootNamespace>
-    <AssemblyName>Apponto.Service</AssemblyName>
+    <RootNamespace>Apponto.Database</RootNamespace>
+    <AssemblyName>Apponto.Database</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -39,14 +39,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UserService.cs" />
+    <Compile Include="UserDatabase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Apponto.Database\Apponto.Database.csproj">
-      <Project>{0319fd96-d9f3-4a28-9933-b71efd1d3838}</Project>
-      <Name>Apponto.Database</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Apponto.Model\Apponto.Model.csproj">
       <Project>{d3f9ca21-c4b5-451a-8352-2db754703e99}</Project>
       <Name>Apponto.Model</Name>

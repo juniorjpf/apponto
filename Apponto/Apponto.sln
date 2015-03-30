@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.Web", "Apponto.Web\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.Service", "Apponto.Service\Apponto.Service.csproj", "{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.Database", "Apponto.Database\Apponto.Database.csproj", "{0319FD96-D9F3-4A28-9933-B71EFD1D3838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.Model", "Apponto.Model\Apponto.Model.csproj", "{D3F9CA21-C4B5-451A-8352-2DB754703E99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,14 @@ Global
 		{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0319FD96-D9F3-4A28-9933-B71EFD1D3838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0319FD96-D9F3-4A28-9933-B71EFD1D3838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0319FD96-D9F3-4A28-9933-B71EFD1D3838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0319FD96-D9F3-4A28-9933-B71EFD1D3838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F9CA21-C4B5-451A-8352-2DB754703E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F9CA21-C4B5-451A-8352-2DB754703E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F9CA21-C4B5-451A-8352-2DB754703E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F9CA21-C4B5-451A-8352-2DB754703E99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

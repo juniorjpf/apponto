@@ -170,6 +170,16 @@
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Apponto.Model\Apponto.Model.csproj">
+      <Project>{d3f9ca21-c4b5-451a-8352-2db754703e99}</Project>
+      <Name>Apponto.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Apponto.Service\Apponto.Service.csproj">
+      <Project>{38549bf7-eb70-40bb-b3d1-5d8364d75ac4}</Project>
+      <Name>Apponto.Service</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
