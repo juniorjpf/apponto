@@ -1,0 +1,25 @@
+﻿@model Apponto.Model.Employee
+@{
+    ViewBag.Title = "Exemplo Funcionário";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title</h1>
+</hgroup>
+
+<p>Exemplo<strong>@User.Identity.Name</strong>.</p>
+<div ng-app>
+    <div ng-init="models= @Model">
+        <table>
+            <tr ng-repeat="model in models">
+                <td>{{model.id}}</td>
+                <td>{{model.name}}</td>
+                <td>{{model.role}}</td>
+            </tr>
+        </table>
+    </div>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/angular")
+}
