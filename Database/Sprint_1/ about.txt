@@ -1,1 +1,0 @@
-Diretório destinado para armazenar scripts de criação do banco de dados.

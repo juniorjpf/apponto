@@ -1,0 +1,9 @@
+C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Service\bin\Debug\Apponto.Service.dll
+C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Service\bin\Debug\Apponto.Service.pdb
+C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Service\bin\Debug\Apponto.Database.dll
+C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Service\bin\Debug\Apponto.Model.dll
+C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Service\bin\Debug\Apponto.Database.pdb
+C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Service\bin\Debug\Apponto.Model.pdb
+C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Service\obj\Debug\Apponto.Service.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Service\obj\Debug\Apponto.Service.dll
+C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Service\obj\Debug\Apponto.Service.pdb
