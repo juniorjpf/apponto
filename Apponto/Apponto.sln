@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.Web", "Apponto\Apponto.Web.csproj", "{CD08DD3C-4B26-414A-B380-46FE640B9525}"
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.API", "Apponto.API\Apponto.API.csproj", "{19D7F61A-19E6-451C-B8FE-452DCAAE592F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.Model", "Apponto.Model\Apponto.Model.csproj", "{9F66A336-EB72-4D77-82A1-0D8748D315E1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.API", "D:\Rafael\Documentos\Bruna\Apponto\Apponto\Apponto.API\Apponto.API.csproj", "{19D7F61A-19E6-451C-B8FE-452DCAAE592F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.Web", "Apponto.Web\Apponto.Web.csproj", "{BB20B40F-3981-44E7-930F-C5A1A85FBCE7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.Service", "Apponto.Service\Apponto.Service.csproj", "{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.Database", "Apponto.Database\Apponto.Database.csproj", "{0319FD96-D9F3-4A28-9933-B71EFD1D3838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apponto.Model", "Apponto.Model\Apponto.Model.csproj", "{D3F9CA21-C4B5-451A-8352-2DB754703E99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,22 +17,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CD08DD3C-4B26-414A-B380-46FE640B9525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CD08DD3C-4B26-414A-B380-46FE640B9525}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CD08DD3C-4B26-414A-B380-46FE640B9525}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CD08DD3C-4B26-414A-B380-46FE640B9525}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9F66A336-EB72-4D77-82A1-0D8748D315E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F66A336-EB72-4D77-82A1-0D8748D315E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F66A336-EB72-4D77-82A1-0D8748D315E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F66A336-EB72-4D77-82A1-0D8748D315E1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{19D7F61A-19E6-451C-B8FE-452DCAAE592F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19D7F61A-19E6-451C-B8FE-452DCAAE592F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19D7F61A-19E6-451C-B8FE-452DCAAE592F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19D7F61A-19E6-451C-B8FE-452DCAAE592F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB20B40F-3981-44E7-930F-C5A1A85FBCE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB20B40F-3981-44E7-930F-C5A1A85FBCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB20B40F-3981-44E7-930F-C5A1A85FBCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB20B40F-3981-44E7-930F-C5A1A85FBCE7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38549BF7-EB70-40BB-B3D1-5D8364D75AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0319FD96-D9F3-4A28-9933-B71EFD1D3838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0319FD96-D9F3-4A28-9933-B71EFD1D3838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0319FD96-D9F3-4A28-9933-B71EFD1D3838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0319FD96-D9F3-4A28-9933-B71EFD1D3838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F9CA21-C4B5-451A-8352-2DB754703E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F9CA21-C4B5-451A-8352-2DB754703E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F9CA21-C4B5-451A-8352-2DB754703E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F9CA21-C4B5-451A-8352-2DB754703E99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

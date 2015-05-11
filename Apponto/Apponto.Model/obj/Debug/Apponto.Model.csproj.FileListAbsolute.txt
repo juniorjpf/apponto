@@ -1,10 +1,5 @@
-c:\Users\Rafael\documents\visual studio 2013\Projects\Apponto\Apponto.Model\bin\Apponto.Model.dll.config
-c:\Users\Rafael\documents\visual studio 2013\Projects\Apponto\Apponto.Model\bin\Apponto.Model.dll
-c:\Users\Rafael\documents\visual studio 2013\Projects\Apponto\Apponto.Model\bin\Apponto.Model.pdb
-c:\Users\Rafael\documents\visual studio 2013\Projects\Apponto\Apponto.Model\bin\EntityFramework.dll
-c:\Users\Rafael\documents\visual studio 2013\Projects\Apponto\Apponto.Model\bin\EntityFramework.SqlServer.dll
-c:\Users\Rafael\documents\visual studio 2013\Projects\Apponto\Apponto.Model\bin\EntityFramework.xml
-c:\Users\Rafael\documents\visual studio 2013\Projects\Apponto\Apponto.Model\bin\EntityFramework.SqlServer.xml
-c:\Users\Rafael\documents\visual studio 2013\Projects\Apponto\Apponto.Model\obj\Debug\Apponto.Model.csprojResolveAssemblyReference.cache
-c:\Users\Rafael\documents\visual studio 2013\Projects\Apponto\Apponto.Model\obj\Debug\Apponto.Model.dll
-c:\Users\Rafael\documents\visual studio 2013\Projects\Apponto\Apponto.Model\obj\Debug\Apponto.Model.pdb
+C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Model\bin\Debug\Apponto.Model.dll
+C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Model\bin\Debug\Apponto.Model.pdb
+C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Model\obj\Debug\Apponto.Model.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Model\obj\Debug\Apponto.Model.dll
+C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Model\obj\Debug\Apponto.Model.pdb

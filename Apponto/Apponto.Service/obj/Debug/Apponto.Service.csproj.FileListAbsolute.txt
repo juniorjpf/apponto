@@ -7,12 +7,3 @@ C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Service\bin\Debug\Apponto.M
 C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Service\obj\Debug\Apponto.Service.csprojResolveAssemblyReference.cache
 C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Service\obj\Debug\Apponto.Service.dll
 C:\Desenvolvimento\Faculdade\Apponto\Apponto\Apponto.Service\obj\Debug\Apponto.Service.pdb
-C:\Users\bruna.sampaio\Documents\Apponto new version\Apponto\Apponto.Service\bin\Debug\Apponto.Service.dll
-C:\Users\bruna.sampaio\Documents\Apponto new version\Apponto\Apponto.Service\bin\Debug\Apponto.Service.pdb
-C:\Users\bruna.sampaio\Documents\Apponto new version\Apponto\Apponto.Service\bin\Debug\Apponto.Model.dll
-C:\Users\bruna.sampaio\Documents\Apponto new version\Apponto\Apponto.Service\bin\Debug\EntityFramework.dll
-C:\Users\bruna.sampaio\Documents\Apponto new version\Apponto\Apponto.Service\bin\Debug\Apponto.Model.pdb
-C:\Users\bruna.sampaio\Documents\Apponto new version\Apponto\Apponto.Service\bin\Debug\EntityFramework.xml
-C:\Users\bruna.sampaio\Documents\Apponto new version\Apponto\Apponto.Service\obj\Debug\Apponto.Service.csprojResolveAssemblyReference.cache
-C:\Users\bruna.sampaio\Documents\Apponto new version\Apponto\Apponto.Service\obj\Debug\Apponto.Service.dll
-C:\Users\bruna.sampaio\Documents\Apponto new version\Apponto\Apponto.Service\obj\Debug\Apponto.Service.pdb
